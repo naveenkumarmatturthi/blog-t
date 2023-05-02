@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Naveen Kumar M
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+occupation: Full Stack Web Developer
 company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+email: naveenkumar3273@gmail.com
+twitter: https://twitter.com/naveenmatturthi
+linkedin: https://www.linkedin.com/in/naveenkumarmatturthi
+github: https://github.com/naveen3273
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
