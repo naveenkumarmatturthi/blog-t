@@ -6,11 +6,9 @@ company: Stanford University
 email: naveenkumar3273@gmail.com
 twitter: https://twitter.com/naveenmatturthi
 linkedin: https://www.linkedin.com/in/naveenkumarmatturthi
-github: https://github.com/naveen3273
+github: https://github.com/naveenkumarmatturthi
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a full-stack web developer with over 10 years of experience in the industry. I am proficient in a variety of technologies, including React, Next.js, JavaScript, HTML, CSS, PHP, and October CMS. I have a strong understanding of the full software development life cycle, from design and development to testing and deployment. I am also a team player and have a proven track record of delivering high-quality results on time and within budget.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a highly motivated and results-oriented individual with a passion for web development. I am always looking for new challenges and opportunities to learn and grow. I am confident that I have the skills and experience necessary to be a valuable asset to your team.

@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#mobile app
+/android
+/ios
+capacitor.config.ts
 # testing
 /coverage
 
