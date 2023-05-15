@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Blog of Naveen Kumar M',
   author: 'Naveen Kumar M',
-  headerTitle: 'nvn blog',
+  headerTitle: 'nvn.dev',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -11,8 +11,8 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'naveenkumar3273@gmail.com',
-  github: 'https://github.com/naveen3273',
-  twitter: 'https://twitter.com/Twitter',
+  github: 'https://github.com/naveenkumarmatturthi',
+  twitter: 'https://twitter.com/naveenmatturthi',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/naveenkumarmatturthi',
