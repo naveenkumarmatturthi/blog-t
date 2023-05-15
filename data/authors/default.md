@@ -2,13 +2,17 @@
 name: Naveen Kumar M
 avatar: /static/images/avatar.png
 occupation: Full Stack Web Developer
-company: Stanford University
+company: Freelancer
 email: naveenkumar3273@gmail.com
 twitter: https://twitter.com/naveenmatturthi
 linkedin: https://www.linkedin.com/in/naveenkumarmatturthi
 github: https://github.com/naveenkumarmatturthi
 ---
 
-I am a full-stack web developer with over 10 years of experience in the industry. I am proficient in a variety of technologies, including React, Next.js, JavaScript, HTML, CSS, PHP, and October CMS. I have a strong understanding of the full software development life cycle, from design and development to testing and deployment. I am also a team player and have a proven track record of delivering high-quality results on time and within budget.
+Hi, I'm Naveen Kumar M, a web developer with over 10 years of experience. I'm passionate about creating beautiful and functional websites that meet the needs of my clients. I'm proficient in a variety of technologies, including HTML, CSS, PHP, Laravel, October CMS, MySQL, JavaScript, JQuery, React, Next.js, Tailwindcss, hosting and AWS. I'm also familiar with a variety of project management tools and methodologies.
 
-I am a highly motivated and results-oriented individual with a passion for web development. I am always looking for new challenges and opportunities to learn and grow. I am confident that I have the skills and experience necessary to be a valuable asset to your team.
+I'm a highly motivated and results-oriented individual with a strong work ethic. I'm also a team player and I'm always willing to go the extra mile.
+
+If you're looking for a web developer who can help you take your business to the next level, I'd be honored to be your partner. I'm confident that I can deliver high-quality work on time and within budget.
+
+Contact me today to learn more about my services and how I can help you achieve your goals.
