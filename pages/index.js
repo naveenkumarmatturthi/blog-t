@@ -202,7 +202,7 @@ export default function Home({ posts }) {
             />
           </svg>
         </div> */}
-        <div className="absolute left-1/3 z-10 -translate-x-1/2  scale-150 stroke-primary-700 [mask-image:linear-gradient(to_top,white_20%,transparent_75%)]">
+        <div className="z-5 absolute left-1/3 -translate-x-1/2  scale-150 stroke-primary-700 [mask-image:linear-gradient(to_top,white_20%,transparent_75%)]">
           <svg
             viewBox="0 0 1026 1026"
             fill="none"
@@ -264,11 +264,11 @@ export default function Home({ posts }) {
             </defs>
           </svg>
         </div>
-        <div className="item-center relative z-20 flex w-full flex-col py-8">
+        <div className="item-center z-7 relative flex w-full flex-col py-8">
           <h1 className="mb-2 mt-8 text-xl font-bold leading-none tracking-tight text-gray-600 dark:text-white md:text-5xl lg:text-xl">
             Hi <span className="wave text-black">👋</span>, I'm Naveen Kumar
           </h1>
-          <h1 className="animate-text bg-gradient-to-r from-fuchsia-600 to-pink-600 bg-clip-text pt-2 pb-8 text-left text-8xl font-extrabold tracking-[-.072em] text-transparent">
+          <h1 className="animate-text bg-gradient-to-r from-fuchsia-600 to-pink-600 bg-clip-text pt-2 pb-8 text-left text-5xl font-extrabold tracking-[-.072em] text-transparent sm:text-6xl md:text-8xl ">
             Full-Stack <br /> Web Developer
           </h1>
 

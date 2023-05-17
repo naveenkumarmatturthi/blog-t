@@ -15,6 +15,10 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      screens: {
+        xs: '475px',
+        ...defaultTheme.screens,
+      },
       animation: {
         text: 'text 5s ease infinite',
       },
