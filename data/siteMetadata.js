@@ -1,21 +1,18 @@
 const siteMetadata = {
-  title: 'Blog of Naveen Kumar M',
+  title: 'Naveen Kumar M',
   author: 'Naveen Kumar M',
   headerTitle: 'nvn.dev',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://naveenkumarm.vercel.app',
+  siteRepo: 'https://github.com/naveenkumarmatturthi/blog-t',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'naveenkumar3273@gmail.com',
   github: 'https://github.com/naveenkumarmatturthi',
   twitter: 'https://twitter.com/naveenmatturthi',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/naveenkumarmatturthi',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

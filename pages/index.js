@@ -339,15 +339,12 @@ export default function Home({ posts }) {
           <p className="text-md text-gray-500 dark:text-gray-400">{siteMetadata.description}</p>
         </div>
 
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-2">
+        <div className="-m-4 flex flex-wrap">
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
             return (
-              <div
-                key={slug}
-                className="max-w-sm rounded-lg border-2 border-gray-200 bg-white shadow hover:border-2 hover:border-primary-500 dark:border-gray-700 dark:bg-gray-800 dark:hover:border-primary-500"
-              >
-                <div className="p-5">
+              <div key={slug} className="md max-w-[34rem] items-center p-4 md:w-1/2">
+                <div className="h-full overflow-hidden rounded-md border-2 border-gray-200 p-5 hover:border-primary-600 dark:border-gray-800 dark:hover:border-primary-400">
                   <Link href={`/blog/${slug}`}>
                     <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                       {title}
@@ -362,7 +359,7 @@ export default function Home({ posts }) {
           })}
 
           {posts.length > MAX_DISPLAY && (
-            <div className="mt-3 flex justify-start text-base font-medium leading-6">
+            <div className="flex justify-start pl-4 text-base font-medium leading-6">
               <Link
                 href="/projects"
                 className="font-extrabold text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
@@ -381,15 +378,12 @@ export default function Home({ posts }) {
           <p className="text-md text-gray-500 dark:text-gray-400">{siteMetadata.description}</p>
         </div>
 
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-2">
+        <div className="-m-4 flex flex-wrap">
           {projectsData.slice(0, MAX_DISPLAY).map((project) => {
             const { title, description, imgSrc, href } = project
             return (
-              <div
-                key={title}
-                className="max-w-sm rounded-lg border-2 border-gray-200 bg-white shadow hover:border-2 hover:border-primary-500 dark:border-gray-700 dark:bg-gray-800 dark:hover:border-primary-500"
-              >
-                <div className="p-5">
+              <div key={title} className="md max-w-[34rem] items-center p-4 md:w-1/2">
+                <div className="h-full overflow-hidden rounded-md border-2 border-gray-200 p-5 hover:border-primary-600 dark:border-gray-800 dark:hover:border-primary-400">
                   <Link href={href}>
                     <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                       {title}
