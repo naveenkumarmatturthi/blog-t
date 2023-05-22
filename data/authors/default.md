@@ -1,6 +1,6 @@
 ---
-name: Naveen Kumar M
-avatar: /static/images/avatar.png
+name: Naveen Kumar Matturthi
+avatar: ../static/images/avatar.jpeg
 occupation: Full Stack Web Developer
 company: Freelancer
 email: naveenkumar3273@gmail.com

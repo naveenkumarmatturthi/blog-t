@@ -32,7 +32,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           <header className="pt-0 xl:pb-6">
             <Link
               href="/blog"
-              className="mb-10 inline-flex items-center rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white"
+              className="mb-10 inline-flex items-center border-gray-300 bg-white pt-5 pb-2 text-sm font-bold text-gray-500  hover:text-gray-900 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-400 dark:hover:bg-gray-900 dark:hover:text-white"
             >
               &larr; Back to the blog
             </Link>
@@ -67,8 +67,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {author.avatar && (
                     <Image
                       src={author.avatar}
-                      width="38px"
-                      height="38px"
+                      width="48px"
+                      height="48px"
                       alt="avatar"
                       className="h-10 w-10 rounded-full"
                     />
@@ -76,7 +76,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   <div className="font-medium dark:text-white">
                     <div>{author.name}</div>
                     <div className="text-sm text-gray-500 dark:text-gray-400">
-                      Joined in August 2014
+                      Full Stack Web Developer
                     </div>
                   </div>
                 </div>
