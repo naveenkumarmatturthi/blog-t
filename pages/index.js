@@ -305,7 +305,7 @@ export default function Home({ posts }) {
             </li>
             <li>
               <Link
-                href={'mailto:naveenkumar3273@gmail.com'}
+                href={'mailto:dev@nvnm.in'}
                 className="font-extrabold text-primary-500  hover:text-primary-600 hover:underline dark:hover:text-primary-400"
                 aria-label={`get in touch`}
               >

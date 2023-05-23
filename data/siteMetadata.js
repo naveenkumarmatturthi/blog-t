@@ -5,11 +5,11 @@ const siteMetadata = {
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://naveenkumarm.vercel.app',
+  siteUrl: 'https://nvnm.in',
   siteRepo: 'https://github.com/naveenkumarmatturthi/blog-t',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/social-banner-xl.png',
   email: 'naveenkumar3273@gmail.com',
   github: 'https://github.com/naveenkumarmatturthi',
   twitter: 'https://twitter.com/naveenmatturthi',
