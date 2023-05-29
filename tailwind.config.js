@@ -48,7 +48,7 @@ module.exports = {
         Raleway: ['Raleway'],
       },
       colors: {
-        primary: colors.purple,
+        primary: colors.rose,
         gray: colors.neutral,
       },
       typography: (theme) => ({
